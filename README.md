@@ -1,1 +1,1 @@
-# Application1
+# DMM Webcampの「アプリケーションを完成させよう」のレポジトリです。
